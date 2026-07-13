@@ -10,7 +10,7 @@
         "Virtual environments provide GPU access"
       ],
       "correct": 1,
-      "explanation": "Virtual environments isolate package versions per project. Without them, upgrading PyTorch for one project can break another that depends on an older version. Done"
+      "explanation": "Virtual environments isolate package versions per project. Without them, upgrading PyTorch for one project can break another that depends on an older version."
     },
     {
       "stage": "pre",
